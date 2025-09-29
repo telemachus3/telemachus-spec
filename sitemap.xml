@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://telemachus3.github.io/telemachus-spec/01_introduction/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://telemachus3.github.io/telemachus-spec/02_state_of_the_art/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://telemachus3.github.io/telemachus-spec/03_spec_core/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://telemachus3.github.io/telemachus-spec/04_examples/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+</urlset>
